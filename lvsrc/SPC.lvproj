@@ -948,8 +948,8 @@
 			</Item>
 			<Item Name="UserInput.ctl" Type="VI" URL="../bhRes/Examples/Example_Controls/UserInput.ctl"/>
 			<Item Name="UserInput2SPCDataCluster.vi" Type="VI" URL="../bhRes/Examples/SubVIs/UserInput2SPCDataCluster.vi"/>
-			<Item Name="lp-server-timeouts.vi" Type="VI" URL="/../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/zeromq/examples/lazy-pirate/lp-server-timeouts.vi"/>
-			<Item Name="lp-client.vi" Type="VI" URL="/../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/zeromq/examples/lazy-pirate/lp-client.vi"/>
+			<Item Name="lp-server-timeouts.vi" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/zeromq/examples/lazy-pirate/lp-server-timeouts.vi"/>
+			<Item Name="lp-client.vi" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/zeromq/examples/lazy-pirate/lp-client.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
